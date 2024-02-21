@@ -1,0 +1,1 @@
+print(str(bin(int(input(), base = 8))).replace('0b', ''))
