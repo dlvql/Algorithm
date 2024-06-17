@@ -1,0 +1,1 @@
+solution = lambda lst: list(map(lambda x: int(x) * 2, lst))
