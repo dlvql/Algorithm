@@ -1,0 +1,1 @@
+solution = lambda x: list(sorted(x))[len(x) // 2]
