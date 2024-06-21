@@ -1,0 +1,1 @@
+solution = lambda x: "".join(list(x)[::-1])
