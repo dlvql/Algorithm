@@ -1,0 +1,1 @@
+solution = lambda n: sum(filter(lambda x: x % 2 == 0, range(n + 1)))
