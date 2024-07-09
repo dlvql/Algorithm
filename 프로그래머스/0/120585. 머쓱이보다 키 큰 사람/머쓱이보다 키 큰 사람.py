@@ -1,0 +1,1 @@
+solution = lambda array, height: len(list(filter(lambda x: x > height, array)))
